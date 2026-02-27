@@ -1,0 +1,33 @@
+{
+  "name": "calculate-power-of-two",
+  "version": "1.0.0",
+  "description": "Calculate a power of two",
+  "keywords": [
+    "math",
+    "problems",
+    "calculations",
+    "pow",
+    "2"
+  ],
+  "homepage": "https://github.com/10xly/calculate-power-of-two#readme",
+  "bugs": {
+    "url": "https://github.com/10xly/calculate-power-of-two/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10xly/calculate-power-of-two.git"
+  },
+  "license": "MIT",
+  "author": "10x'ly Made",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@is-(unknown)/is-undefined": "^1.3.2",
+    "es-two": "^1.0.1",
+    "is-two": "^1.0.9",
+    "node-math": "^1.1.1"
+  }
+}
